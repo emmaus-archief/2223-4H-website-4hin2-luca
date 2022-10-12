@@ -2,9 +2,9 @@ Deze repo is onderdeel van het vak informatica op het Emmauscollege Rotterdam.
 
 [Meer info over deze opdracht](https://informatica.emmauscollege.nl/)
 
-## *zet hier de titel van je website*
+AC Milan
 
-*zet hier een korte beschrijving van de informatie die je kunt vinden op je website*
+*informatie over de legendarische geschiedenis en heden van de voetbalclub AC Milan*
 
 ## Planning
 Werk de planning af van boven naar beneden<br>
