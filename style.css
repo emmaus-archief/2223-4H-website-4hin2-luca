@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
-  color: #303030;               /* tekstkleur donkergrijs */
+  background-color: #607670;    /* achtergrondkleur lichtgrijs */
+  color: #607670;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -84,26 +84,30 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #000000;
     overflow: hidden;
+  border-radius: 40px;
 }
 
 nav ul li {
     float: left;
+    margin:4px;
 }
 
 nav li a {
     display: block;
-    color: white;
+    color: #fafafa;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: red;
+  border-radius: 20px;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: red;
+  border-radius: 20px;
 }
