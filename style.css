@@ -44,7 +44,9 @@ p {
 }
 
 /* Indeling voor hoofd pagina */
-
+.plaatjetekstbox {
+  margin-top:20px;
+}
 .kolomLinks {
   float:left;
   width:250px;
