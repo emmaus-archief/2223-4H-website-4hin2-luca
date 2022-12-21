@@ -60,6 +60,47 @@ p {
   clear:both;                   /* stop met floaten */
 }
 
+/* indeling spelers pagina */
+
+.ac-opstelling {
+  position:absolute;
+  border:solid 2px green;
+  width:400px;
+  height:400px;
+}
+
+.speler-voor{
+  position:absolute;
+  top: 20px;
+}
+
+.speler-ra{
+    position:absolute;
+  top: 300px;
+  left:325px;
+}
+
+.speler-rcb{
+    position:absolute;
+  left: 225px;
+  top:300px;
+}
+
+.speler-lcb {
+    position:absolute;
+  left: 300px;
+}
+.speler-midden {
+  
+}
+.speler-rcdm {
+  
+}
+.speler-keeper {
+  position:absolute;
+  top:350px;
+  left:175px;
+}
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
