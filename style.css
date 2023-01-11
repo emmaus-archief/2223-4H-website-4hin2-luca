@@ -76,30 +76,50 @@ p {
 
 .speler-ra{
     position:absolute;
-  top: 300px;
+  top: 280px;
   left:325px;
 }
 
 .speler-rcb{
     position:absolute;
   left: 225px;
-  top:300px;
+  top:280px;
 }
 
 .speler-lcb {
     position:absolute;
-  left: 300px;
+  top: 280px;
+  left: 135px;
 }
-.speler-midden {
-  
+.speler-la {
+  position:absolute;
+  top: 280px;
+  left:30px;
 }
 .speler-rcdm {
-  
+  position: absolute;
+  top:230px;
+  left:260px;
+}
+.speler-lcdm{
+  position:absolute;
+  top:230px;
+  left:95px;
 }
 .speler-keeper {
   position:absolute;
-  top:350px;
+  top:330px;
   left:175px;
+}
+.speler-lam{
+  position:absolute;
+  top:180px;
+  left:50px;
+}
+.speler-ram{
+  position:absolute;
+  top:180px;
+  left:300px
 }
 /* Opmaak voor alle pagina's */
 
